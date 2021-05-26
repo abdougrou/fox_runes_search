@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2 ,
+	"name": "Fox Runes Search",
+	"description":"Extension that allows you to get a champion runes guide quickly for your next League Of Legends game. By Fox Gaming Fan.",
+	"version": "1.0",
+	"icons": {
+		"16":"fox.png",
+		"32":"fox.png",
+		"48":"fox.png",
+		"128":"fox.png"
+	},
+	"content_scripts":[
+		{
+			"matches": ["<all_urls>"],
+			"js": ["content.js"]
+		}
+	],
+	"permissions": [
+  		"tabs"
+	],
+	"browser_action": {
+		"default_icon": "fox.png",
+		"default_title": "Fox Runes Search By Abdou",
+		"default_popup": "popup.html"
+	}
+}

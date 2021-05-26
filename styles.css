@@ -1,0 +1,30 @@
+body{
+  background-image: url("https://static.lolwallpapers.net/2017/08/59a280d1e222f-932x620.jpg"); /* The image used */
+  height: 200px; /* You must set a specified height */
+  width: 300px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+h1 {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #ecf0f1;
+}
+
+.container{
+	text-align: center;
+	color: #ecf0f1;
+}
+
+.btn-primary{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.btn-danger{
+	margin-top: 10px;
+	margin-left: 20px;
+}
