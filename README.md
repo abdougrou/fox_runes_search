@@ -10,7 +10,7 @@ Extension that allows you to get a champion runes guide quickly for your next Le
 4. Step 4 : Select File (don't change the file path after installation)
 5. Step 5 : Pin the extension
 6. Step 6 : Enjoy.
-Made by Abderrahmane Grou
+![Screenshot of the extension](./screenshot.png)
 
 ## Languages :
 * HTML
@@ -18,8 +18,8 @@ Made by Abderrahmane Grou
 * Javascript
 
 ## Why I made this :
-Every time I play a League Of Legends game I search for champion guide on internet to pick his approrpriate runes page.
-And this part took me time and I have only 25 secondes to do that. That's why I thought about making this extension to optimize this process.
+Every time I play a League Of Legends games I search for champion guide on internet to pick his approrpriate runes page.
+This part took me time and I have only 25 secondes to do that. That's why I thought about making this extension to optimize this process.
 
 ## What I learned for this experience:
 * Since it's the first time I am using Javascript, I learned a lot about Javascript syntax and how it works in general.
@@ -34,3 +34,6 @@ And this part took me time and I have only 25 secondes to do that. That's why I 
 * Youtube videos :
   * (from 11.4 to 11.6 in this channel): [11.4 video link](https://www.youtube.com/watch?v=9Tl3OmwrSaM)
   * another one: [video link](https://www.youtube.com/watch?v=kYl271X2LNA)
+
+
+**Life is cool and coding makes it cooler ;)**
